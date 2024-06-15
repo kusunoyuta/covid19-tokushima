@@ -1,8 +1,6 @@
-# tokushima(Unofficial) COVID-19 Task Force website
+# Tokushima(Unofficial) COVID-19 Task Force website
 
-![](https://github.com/tokushima-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
-
-[![tokushima COVID-19 Task Force website](https://user-images.githubusercontent.com/19589940/76959982-f2868a80-695d-11ea-9d8e-28e9e9225d2c.png)](https://tokushima-covid19.netlify.com/)
+[![tokushima COVID-19 Task Force website](https://github.com/yutakusuno/covid19-tokushima/assets/56626111/14f82964-3702-4309-bb10-f431df13d581)](https://tokushima-covid19.netlify.com/)
 
 ### [日本語](./README.md) | [English](./README_EN.md)
 
