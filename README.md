@@ -1,5 +1,8 @@
 # 徳島県(非公式) 新型コロナウイルス感染症対策サイト
 
+[![tokushima COVID-19 Task Force website](https://github.com/yutakusuno/covid19-tokushima/assets/56626111/14f82964-3702-4309-bb10-f431df13d581)](https://tokushima-covid19.netlify.com/)
+
+
 ### 日本語 | [English](./README_EN.md)
 
 ## 貢献の仕方
